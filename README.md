@@ -5,40 +5,19 @@
     Ignite Feed
 </h1>
 
-<div align="center">
-
-  <a href="">
-    <img src="https://img.shields.io/github/languages/count/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="languages" >
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/github/languages/top/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="languagesTop" >
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/github/repo-size/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="repo-size" >
-  </a>
-
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="last-commit" >
-  </a>
-
-</div>
-
 <h2 align="center"> Aplicação Rocketseat Ignite Feed 🚀 </h2>
 
 
 <h2>📷 Preview </h2>
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="500" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/preview.gif" />
+    <img width="700" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/ignite-feed.gif" />
   <div>
 </h1>
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="250" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/mobile.png" />
-    <img width="500" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/desktop.png" />
+    <img width="700" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/home.png" />
   <div>
 </h1>
 
@@ -58,7 +37,7 @@ Ignite feed é um projeto que simula o feed das redes sociais, com funcionalidad
 $ git clone https://github.com/ThiagoYamaguchi/ignite-feed.git
 
 # Go to server folder
-$ cd https://github.com/ThiagoYamaguchi/ignite-feed.git
+$ cd ignite-feed
 
 # Install Dependencies
 
@@ -69,7 +48,3 @@ $ npm run dev
 # Access localhost
 http://localhost:3001
 ```
-
-<p align="center">
-  Feito com 💜 by <a href="https://www.rocketseat.com.br/" >Rocketseat</a>
-</p>
